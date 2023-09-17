@@ -1,0 +1,146 @@
+@media screen and (max-width:1000px) {
+    
+    /* .bor-left{
+        border: none;
+        margin-top: 30px;
+    } */
+    .profile div p{
+        font-size: 1rem;
+    }
+    .heart-1{
+        position: relative;
+        bottom:40px;
+        left: 100px;
+    }
+    .row .col-lg-2{
+        margin: 10px;
+    }
+    
+    .responsive{
+        display: flex;
+        
+    }
+    .responsive h3{
+        margin-top: 20px;
+    }
+    /* .heart-2{
+        position: relative;
+        top: 105px;
+        right: 75px;
+    } */
+}
+@media screen and (max-width:999px){
+    .box .profile{
+        display:block;
+        /* background-color: purple; */
+    }
+}
+ @media (min-width: 767px) and (max-width:1000px) {
+    .heart-2{
+        position: relative;
+        top: 65px;
+        right: 55px;
+    }
+    .r-1 img {
+        margin-left: 4%;
+    }
+} 
+@media screen and (max-width:767px){
+    .responsive{
+        display: block;
+        
+    }
+    .heart-2{
+        position: relative;
+        top: 60px;
+        right: 80px;
+    }
+}
+@media screen and (max-width:600px) {
+    
+    .col-1 button{
+        padding: 0;
+    }
+    .col-lg-6 button{
+        font-size: 10px;
+        width: 100px;
+    }
+}
+@media (min-width:770px) and (max-width:990px) {
+    .col-lg-6 button{
+        position: relative;
+        bottom: 37%;
+        left: 30%;
+    }
+}
+@media screen and (max-width:768px) {
+.col-10 img{
+    width: 100px;
+    height: 100px;
+} 
+.profile{
+    display: block;
+}
+.bor-left{
+    border: none;
+    margin-top: 3rem;
+}
+.heart-1{
+        position: relative;
+        bottom:265px;
+        left: 100px;
+}
+}
+@media screen and (max-width:500px) {
+ .fa-bookmark{
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.col-1 .fa{
+font-size: 10px;
+position: relative;
+right: 10px;
+
+}
+.socail{
+width: 100%;
+margin: auto;
+}
+.Add{
+padding: 2px;
+}
+.bc-cont{
+    height: 550px;
+}
+.main{
+    margin-top: 2rem;
+}
+.time p{
+    font-size: 15px;
+}
+
+.fa-battery-full{
+    font-size: 20px;
+}
+.main div h1 {
+    font-size: 25px;
+    text-align: center;
+
+}
+.main div p {
+    font-size: 10px;
+    text-align: center;
+}
+.main .bor{
+    height: 60px;
+}
+}
+@media screen and (max-width:580px) {
+.container{
+    width: 95%;
+}
+}
+@media screen and (max-width:580px) {
+
+}
